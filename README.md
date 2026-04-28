@@ -110,4 +110,4 @@ jupyter
 ## 👤 Author
 
 **Your Name**  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://linkedin.com/in/atharv-bharaswadkar) · [GitHub](https://github.com/atharvbharaswadkar)
