@@ -109,5 +109,5 @@ jupyter
 
 ## 👤 Author
 
-**Your Name**  
+**Atharv Bharaswadkar**  
 [LinkedIn](https://linkedin.com/in/atharv-bharaswadkar) · [GitHub](https://github.com/atharvbharaswadkar)
